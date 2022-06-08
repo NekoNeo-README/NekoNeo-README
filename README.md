@@ -1,3 +1,1 @@
-<h1>Cool kid</h1>
-
-<img src="https://image.myanimelist.net/ui/U5hngoIhvL0N1VYk4b7vlgN7-xGEkr9JL-zGr_AkOwo-AE8a_WOx1plWBEEdkaGXQpto3v5l5i8bhaTLK2liJIkt7bEYe72ulm-74eFV0adu3nU7Zgn0zdii62rJkJcL"></img>
+<img src="https://imgs.search.brave.com/-oTwqv6yIEOzbrMRHiIZA5axJb4Tro4OAnFjW3ztn24/rs:fit:750:591:1/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvZ2V6c3By/MDZzaGY2MS5qcGc"/>
